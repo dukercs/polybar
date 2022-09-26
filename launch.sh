@@ -35,7 +35,7 @@ if [[ "$1" == "--hack1bar" ]]; then
 	style="hack1bar"
 	launch_bar
 
-if [[ "$1" == "--material" ]]; then
+elif [[ "$1" == "--material" ]]; then
 	style="material"
 	launch_bar
 
