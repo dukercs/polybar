@@ -45,8 +45,8 @@ if [[ -x "`which wal`" ]]; then
 			echo 'Color file does not exist, exiting...'
 			exit 1
 		fi
-
-		BG=`printf "%s\n" "$background"`
+		[[ "$2" == "-t" ]] && transp="aa"
+		BG=`printf "%s\n" "${background/\#/#$transp}"`
 		FG=`printf "%s\n" "$foreground"`
 		AC=`printf "%s\n" "$color1"`
 
