@@ -7,7 +7,7 @@ if [ -n $2 ]
 then
 	for i in error warning notice info trace
 	do
-		if [ $2 == $i ]
+		if [ "$2" == "$i" ]
 		then
 			LOGLVL=$2
 		fi
