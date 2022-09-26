@@ -31,6 +31,9 @@ launch_bar() {
 		polybar -l ${LOGLVL:-notice} main -c "$dir/$style/config.ini" >> $LOG 2>&1 &	
 	fi
 }
+if [[ "$1" == "--hack1bar" ]]; then
+	style="hack1bar"
+	launch_bar
 
 if [[ "$1" == "--material" ]]; then
 	style="material"
