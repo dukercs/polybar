@@ -1,9 +1,0 @@
-polybar|notice:  Parsing config file: /home/dukercs/.config/polybar/hack/config.ini
-polybar|notice:  Parsing config file: /home/dukercs/.config/polybar/hack/config.ini
-polybar|notice:  Loaded font "Iosevka Nerd Font:pixelsize=10" (name=Iosevka, offset=3, file=/home/dukercs/.local/share/fonts/Iosevka Nerd Font Complete.ttf)
-polybar|notice:  Loaded font "Iosevka Nerd Font:pixelsize=12" (name=Iosevka, offset=4, file=/home/dukercs/.local/share/fonts/Iosevka Nerd Font Complete.ttf)
-polybar|notice:  Loaded font "Iosevka Nerd Font:pixelsize=10" (name=Iosevka, offset=3, file=/home/dukercs/.local/share/fonts/Iosevka Nerd Font Complete.ttf)
-polybar|notice:  Loaded font "Iosevka Nerd Font:pixelsize=12" (name=Iosevka, offset=4, file=/home/dukercs/.local/share/fonts/Iosevka Nerd Font Complete.ttf)
-polybar|error: Failed to reconfigure tray client, removing... (XCB_WINDOW (3))
-polybar|error: Failed to reconfigure tray client, removing... (XCB_WINDOW (3))
-polybar|warn:  Dropping unmatched character 🙃 (U+1f643) in 'ohmyzsh/ohmyzsh: 🙃 A deligh...'
