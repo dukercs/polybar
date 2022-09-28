@@ -1,0 +1,1 @@
+/mnt/OUTROS/home/Documentos/dukercs.kubuntu/Estudos/Github/Scripts/Shell/dunstmodule/dunstcontrol.sh
